@@ -21,9 +21,9 @@
 
 
     function loadPictures(){
-        Game.Loader.Replace("perfectCookie.png", "https://www.liga.nl/wp-content/uploads/2021/01/LIGA_Milkbreak_Melk_.png")
-        Game.Loader.Replace("smallCookies.png", "https://www.liga.nl/wp-content/uploads/2021/01/LIGA_Milkbreak_Melk_.png")
-        Game.Loader.Replace("imperfectCookie.png", "https://www.liga.nl/wp-content/uploads/2021/01/LIGA_Milkbreak_Melk_.png")
-        Game.Loader.Replace("icons.png", "https://i.redd.it/6e3vagip4gsa1.png")
+        Game.Loader.Replace("perfectCookie.png", "https://raw.githubusercontent.com/GamerBreadToaster/cookie-clicker-liga-texturepack/main/LIGA_Milkbreak_Melk_.png")
+        Game.Loader.Replace("smallCookies.png", "https://raw.githubusercontent.com/GamerBreadToaster/cookie-clicker-liga-texturepack/main/LIGA_Milkbreak_Melk_.png")
+        Game.Loader.Replace("imperfectCookie.png", "https://raw.githubusercontent.com/GamerBreadToaster/cookie-clicker-liga-texturepack/main/LIGA_Milkbreak_Melk_.png")
+        Game.Loader.Replace("icons.png", "https://raw.githubusercontent.com/GamerBreadToaster/cookie-clicker-liga-texturepack/main/icons.png")
     };
 })();
