@@ -14,3 +14,7 @@ then open your new script select all the text there and then deleting that text.
 now paste the text into the tamper monkey script, it should look like this:
 
 ![image](https://user-images.githubusercontent.com/76438500/231177026-b6dc0455-448b-4fbe-8e09-add3cb42394c.png)
+
+now press ctrl + s or on the top left, select file and then click on save.
+
+# Your done, you have installed my texture pack!
