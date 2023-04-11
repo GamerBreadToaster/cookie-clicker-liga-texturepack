@@ -18,3 +18,9 @@ now paste the text into the tamper monkey script, it should look like this:
 now press ctrl + s or on the top left, select file and then click on save.
 
 # Your done, you have installed my texture pack!
+
+
+If you now open cookie clicker on https://orteil.dashnet.org/cookieclicker/ it should look like:
+![image](https://user-images.githubusercontent.com/76438500/231178337-eb79c9a7-f1a0-480f-b4a2-cab3cdc265fd.png)
+
+# Thank you!
